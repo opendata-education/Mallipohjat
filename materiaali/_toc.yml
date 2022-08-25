@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+format: jb-book
+root: intro
+chapters:
+- file: harjoitukset/mallipohjat
+  sections:
+  - file: harjoitukset/viivakuvaaja1
+  - file: harjoitukset/viivakuvaaja2
+  - file: harjoitukset/pylvasdiagrammi1
