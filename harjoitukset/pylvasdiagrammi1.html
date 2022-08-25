@@ -4,7 +4,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Pylväsdiagrammi 1 – data sarakkeesta &#8212; Mallipohjat</title>
     
   <!-- Loaded before other Sphinx assets -->
@@ -20,7 +21,7 @@
     href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
@@ -34,10 +35,13 @@
     <script src="../_static/jquery.js"></script>
     <script src="../_static/underscore.js"></script>
     <script src="../_static/doctools.js"></script>
-    <script src="../_static/togglebutton.js"></script>
     <script src="../_static/clipboard.min.js"></script>
     <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="../_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
@@ -391,9 +395,9 @@ title="Print to PDF"
                 
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="pylvasdiagrammi-1-data-sarakkeesta">
+  <section class="tex2jax_ignore mathjax_ignore" id="pylvasdiagrammi-1-data-sarakkeesta">
 <h1>Pylväsdiagrammi 1 – data sarakkeesta<a class="headerlink" href="#pylvasdiagrammi-1-data-sarakkeesta" title="Permalink to this headline">#</a></h1>
-<div class="section" id="tama-pohja-on-tehty-sinulle-muokattavaksi">
+<section id="tama-pohja-on-tehty-sinulle-muokattavaksi">
 <h2>Tämä pohja on tehty sinulle muokattavaksi.<a class="headerlink" href="#tama-pohja-on-tehty-sinulle-muokattavaksi" title="Permalink to this headline">#</a></h2>
 <p>Kuinka mukavia ovatkaan pylväsdiagrammit ja niiden mahdollistamat pohdintatehtävät! Tässä on esitelty, kuinka voit nopeasti pyöräyttää kuvaajan valitsemasi datasetin yhden sarakkeen tiedoista. Jos innostusta riittää monipuolisempaan tarkasteluun, niin alempana on annettu esimerkki siitä, kuinka tehdään kumulatiivisia pylväsdiagrammeja. Voit myös käyttää tätä kyseistä datasettiä ruuan hiilipäästöistä, joka on napattu <a class="reference external" href="https://ourworldindata.org/environmental-impacts-of-food#you-want-to-reduce-the-carbon-footprint-of-your-food-focus-on-what-you-eat-not-whether-your-food-is-local">täältä</a>. Tähän datasettiin on kerätty tieto, mistä muutamien erilaisten ruoka-aineiden hiilidioksidipäästöt syntyvät, ja kuinka suuria nämä päästöt ovat sektoreittain.</p>
 <p>Voit siis käyttää tätä tiedostoa mallipohjana, jos haluat tehdä pylväsdiagrammin jonkin datatiedoston sarakkeesta. Luet vain oman datatiedoston, muokkailet vähän muuttujien nimiä ja lisäät sopivat tekstit ympärille. Jos tulee ongelmia joihin ei Googlesta tunnu löytyvän vastausta, niin meille voi aina laittaa sähköpostia matalalla kynnyksellä.</p>
@@ -525,8 +529,8 @@ title="Print to PDF"
 </table>
 </div></div></div>
 </div>
-</div>
-<div class="section" id="pylvasdiagrammi-yhdesta-sarakkeesta">
+</section>
+<section id="pylvasdiagrammi-yhdesta-sarakkeesta">
 <h2>Pylväsdiagrammi yhdestä sarakkeesta<a class="headerlink" href="#pylvasdiagrammi-yhdesta-sarakkeesta" title="Permalink to this headline">#</a></h2>
 <p>Valitaan tarkasteltavaksi sarakkeeksi ruoka-aineiden maankäytöstä syntyvät hiilipäästöt.</p>
 <div class="cell docutils container">
@@ -545,12 +549,12 @@ title="Print to PDF"
 </div>
 </div>
 </div>
-<div class="margin sidebar">
+<aside class="margin sidebar">
 <p class="sidebar-title">An optional title</p>
 <p>HOX: molempiin muuttujiin ‘ruuat’ ja ‘maan_kaytto’ tallennettavat tiedot tulee ottaa lajitellusta
 datatiedostosta, jotta ruokien nimet ja päästöjen suuruudet eivät mene keskenään sekaisin. Eli molemmat
 tiedot joko lajitellusta tiedosta tai alkuperäisestä, ei sekoituksia.</p>
-</div>
+</aside>
 <p>Sitten jatketaan piirtämällä meidän kuvaaja. Koska x-akselille tulisi useita ruokien nimiä, niin helpomman tarkastelun vuoksi tehdään nyt horisontaalinen kuvaaja.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -574,8 +578,8 @@ tiedot joko lajitellusta tiedosta tai alkuperäisestä, ei sekoituksia.</p>
 <img alt="../_images/pylvasdiagrammi1_6_0.png" src="../_images/pylvasdiagrammi1_6_0.png" />
 </div>
 </div>
-</div>
-<div class="section" id="kumulatiivinen-pylvasdiagrammi">
+</section>
+<section id="kumulatiivinen-pylvasdiagrammi">
 <h2>Kumulatiivinen pylväsdiagrammi<a class="headerlink" href="#kumulatiivinen-pylvasdiagrammi" title="Permalink to this headline">#</a></h2>
 <p>Tässäkin tapauksessa olisi kuitenkin mielenkiintoista tarkastella sitä, mistä sektoreista eri ruokien päästöt koostuvat ja miten niiden suuruudet vertautuvat toisiinsa. Pylväsdiagrammien tapauksessa kumulatiivisen kuvaajan tekemisessä on hieman enemmän työtä, mutta onneksi sen tekeminen on varsin suoraviivaista.</p>
 <div class="cell docutils container">
@@ -726,7 +730,7 @@ tiedot joko lajitellusta tiedosta tai alkuperäisestä, ei sekoituksia.</p>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">  File</span><span class="nn"> &quot;&lt;ipython-input-6-89b4d318a32c&gt;&quot;</span><span class="gt">, line </span><span class="mi">6</span>
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span>  <span class="n">Input</span> <span class="n">In</span> <span class="p">[</span><span class="mi">6</span><span class="p">]</span>
     <span class="o">=</span> <span class="p">(</span><span class="n">ruuan_paastot</span><span class="p">[</span><span class="s1">&#39;food_emissions_land_use&#39;</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="c1"># datasetin muuttuja ja sarakkeen nimi</span>
     <span class="o">^</span>
 <span class="ne">IndentationError</span>: unexpected indent
@@ -794,8 +798,8 @@ tiedot joko lajitellusta tiedosta tai alkuperäisestä, ei sekoituksia.</p>
 </div>
 </div>
 <p>Tästäkin jo saadaan mukavasti pohdittavaa – onko esimerkiksi lähiruoka niin ympäristöystävällistä, kuin yleisesti halutaan uskoa? Toivottavasti tästä mallipohjasta oli apua, ja mukavia hetkiä pylväsdiagrammien pariin!</p>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
