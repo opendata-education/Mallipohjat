@@ -743,8 +743,7 @@ tiedot joko lajitellusta tiedosta tai alkuperäisestä, ei sekoituksia.</p>
 <span class="c1"># Tämä voi näyttää sekavalta ja vaikealta, niin listaan tänne valmiiksi ne asiat, mitä sinne pitää muuttaa.</span>
 
 <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">ruuan_paastot</span><span class="p">)):</span> <span class="c1"># se muuttuja, joka sisältää datasetin</span>
-    <span class="n">ruuan_paastot</span><span class="p">[</span><span class="s2">&quot;Total&quot;</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="c1"># Datasetin muuttuja ja se sarake, joka on täynnä nollia</span>
-                                <span class="o">=</span> <span class="p">(</span><span class="n">ruuan_paastot</span><span class="p">[</span><span class="s1">&#39;food_emissions_land_use&#39;</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="c1"># datasetin muuttuja ja sarakkeen nimi</span>
+    <span class="n">ruuan_paastot</span><span class="p">[</span><span class="s2">&quot;Total&quot;</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="n">ruuan_paastot</span><span class="p">[</span><span class="s1">&#39;food_emissions_land_use&#39;</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="c1"># datasetin sarake ja datasetin muuttuja, sarakkeen nimi</span>
                                  <span class="o">+</span> <span class="n">ruuan_paastot</span><span class="p">[</span><span class="s1">&#39;food_emissions_farm&#39;</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="c1"># ja jokainen sarake erikseen,</span>
                                  <span class="o">+</span> <span class="n">ruuan_paastot</span><span class="p">[</span><span class="s1">&#39;food_emissions_animal_feed&#39;</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="c1"># jotka haluat mukaan laskuun</span>
                                  <span class="o">+</span> <span class="n">ruuan_paastot</span><span class="p">[</span><span class="s1">&#39;food_emissions_processing&#39;</span><span class="p">][</span><span class="n">i</span><span class="p">]</span>
@@ -760,13 +759,124 @@ tiedot joko lajitellusta tiedosta tai alkuperäisestä, ei sekoituksia.</p>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span>  <span class="n">Input</span> <span class="n">In</span> <span class="p">[</span><span class="mi">6</span><span class="p">]</span>
-    <span class="o">=</span> <span class="p">(</span><span class="n">ruuan_paastot</span><span class="p">[</span><span class="s1">&#39;food_emissions_land_use&#39;</span><span class="p">][</span><span class="n">i</span><span class="p">]</span> <span class="c1"># datasetin muuttuja ja sarakkeen nimi</span>
-    <span class="o">^</span>
-<span class="ne">IndentationError</span>: unexpected indent
+<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>/tmp/ipykernel_1721/1263451987.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  ruuan_paastot[&quot;Total&quot;][i] = (ruuan_paastot[&#39;food_emissions_land_use&#39;][i] # datasetin sarake ja datasetin muuttuja, sarakkeen nimi
 </pre></div>
 </div>
-</div>
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Entity</th>
+      <th>Code</th>
+      <th>Year</th>
+      <th>food_emissions_land_use</th>
+      <th>food_emissions_farm</th>
+      <th>food_emissions_animal_feed</th>
+      <th>food_emissions_processing</th>
+      <th>food_emissions_transport</th>
+      <th>food_emissions_retail</th>
+      <th>food_emissions_packaging</th>
+      <th>food_emissions_losses</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Apples</td>
+      <td>NaN</td>
+      <td>2018</td>
+      <td>-0.028951</td>
+      <td>0.225816</td>
+      <td>0.000000</td>
+      <td>0.003820</td>
+      <td>0.095804</td>
+      <td>0.016578</td>
+      <td>0.044526</td>
+      <td>0.070808</td>
+      <td>0.428401</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Bananas</td>
+      <td>NaN</td>
+      <td>2018</td>
+      <td>-0.025534</td>
+      <td>0.269618</td>
+      <td>0.000000</td>
+      <td>0.060146</td>
+      <td>0.295830</td>
+      <td>0.020981</td>
+      <td>0.065670</td>
+      <td>0.175185</td>
+      <td>0.861896</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Barley</td>
+      <td>NaN</td>
+      <td>2018</td>
+      <td>0.008676</td>
+      <td>0.176377</td>
+      <td>0.000000</td>
+      <td>0.127703</td>
+      <td>0.035351</td>
+      <td>0.263587</td>
+      <td>0.496786</td>
+      <td>0.070692</td>
+      <td>1.179171</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Beef (beef herd)</td>
+      <td>NaN</td>
+      <td>2018</td>
+      <td>23.237536</td>
+      <td>56.228063</td>
+      <td>2.680979</td>
+      <td>1.811083</td>
+      <td>0.494125</td>
+      <td>0.233538</td>
+      <td>0.352084</td>
+      <td>14.439998</td>
+      <td>99.477405</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Beef (dairy herd)</td>
+      <td>NaN</td>
+      <td>2018</td>
+      <td>1.266022</td>
+      <td>21.915529</td>
+      <td>3.503673</td>
+      <td>1.547664</td>
+      <td>0.592410</td>
+      <td>0.254032</td>
+      <td>0.374549</td>
+      <td>3.847515</td>
+      <td>33.301395</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
