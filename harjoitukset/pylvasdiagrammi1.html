@@ -563,6 +563,12 @@ title="Print to PDF"
 <section id="pylvasdiagrammi-yhdesta-sarakkeesta">
 <h2>Pylväsdiagrammi yhdestä sarakkeesta<a class="headerlink" href="#pylvasdiagrammi-yhdesta-sarakkeesta" title="Permalink to this headline">#</a></h2>
 <p>Valitaan tarkasteltavaksi sarakkeeksi ruoka-aineiden maankäytöstä syntyvät hiilipäästöt.</p>
+<aside class="margin sidebar">
+<p class="sidebar-title">Tärkeää huomata</p>
+<p>Molempiin muuttujiin ‘ruuat’ ja ‘maan_kaytto’ tallennettavat tiedot tulee ottaa lajitellusta
+datatiedostosta, jotta ruokien nimet ja päästöjen suuruudet eivät mene keskenään sekaisin. Eli molemmat
+tiedot joko lajitellusta tiedosta tai alkuperäisestä, ei sekoituksia.</p>
+</aside>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Lajitellaan datatiedosto uudestaan maankäytöstä syntyvien päästöjen suuruuden mukaan.</span>
@@ -579,12 +585,6 @@ title="Print to PDF"
 </div>
 </div>
 </div>
-<aside class="margin sidebar">
-<p class="sidebar-title">Tärkeää huomata</p>
-<p>Molempiin muuttujiin ‘ruuat’ ja ‘maan_kaytto’ tallennettavat tiedot tulee ottaa lajitellusta
-datatiedostosta, jotta ruokien nimet ja päästöjen suuruudet eivät mene keskenään sekaisin. Eli molemmat
-tiedot joko lajitellusta tiedosta tai alkuperäisestä, ei sekoituksia.</p>
-</aside>
 <p>Sitten jatketaan piirtämällä meidän kuvaaja. Koska x-akselille tulisi useita ruokien nimiä, niin helpomman tarkastelun vuoksi tehdään nyt horisontaalinen kuvaaja.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -759,7 +759,7 @@ tiedot joko lajitellusta tiedosta tai alkuperäisestä, ei sekoituksia.</p>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>/tmp/ipykernel_1721/1263451987.py:5: SettingWithCopyWarning: 
+<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>/tmp/ipykernel_1911/1263451987.py:5: SettingWithCopyWarning: 
 A value is trying to be set on a copy of a slice from a DataFrame
 
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
