@@ -3,6 +3,9 @@
 format: jb-book
 root: intro
 chapters:
+- file: ohjeet/ohjeet
+  sections:
+  - file: ohjeet/linkin_vaihto
 - file: harjoitukset/mallipohjat
   sections:
   - file: harjoitukset/viivakuvaaja1
