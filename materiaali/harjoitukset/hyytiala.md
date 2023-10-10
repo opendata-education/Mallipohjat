@@ -35,7 +35,7 @@ Ilmoittautuminen:
 
 Ilmoittaudu mukaan lomakkeella viimeistään su 22.10.  
 
-https://elomake.helsinki.fi/lomakkeet/125479/lomake.html  
+[https://elomake.helsinki.fi/lomakkeet/125479/lomake.html](https://elomake.helsinki.fi/lomakkeet/125479/lomake.html)
 
 Lisätietoa retkestä: Outi Haatainen, outi.haatainen(at)helsinki.fi   
 
