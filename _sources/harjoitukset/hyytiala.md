@@ -14,10 +14,14 @@ Kurssin muoto:
 *Tiesitkö, että Helsingin yliopistossa tehdään huippuluokan tutkimusta kestävyyteen liittyen. Haluatko kuulla tästä lisää?  Haluatko oppia hyödyntämään ajankohtaista tutkimustietoa osana LUMA-aineiden opettajan työtä? 
 Jos vastaus on kyllä, tule mukaan opintoretkelle Hyytiälän metsäasemalle.*
 
-**Mitä:** 1 op opintoretki Hyytiälän metsäasemalle. Retken voi hyväksilukea osaksi useita kandi- ja maisterivaiheen kursseja. 
-**Kenelle:** MFK-kandi- ja maisteriohjelman opiskelijoille 
-**Missä:** Hyytiälän metsäasemalla + ennakkotapaaminen Kumpulassa 
-**Milloin:** ke 15. - pe 17.11.2023 + ennakkotapaaminen Kumpulassa 
+**Mitä:** 1 op opintoretki Hyytiälän metsäasemalle. Retken voi hyväksilukea osaksi useita kandi- ja maisterivaiheen kursseja.
+
+**Kenelle:** MFK-kandi- ja maisteriohjelman opiskelijoille.
+
+**Missä:** Hyytiälän metsäasemalla + ennakkotapaaminen Kumpulassa.
+
+**Milloin:** ke 15. - pe 17.11.2023 + ennakkotapaaminen Kumpulassa.
+
 **Mihin opintosuoritus:**  
 Opiskelijat voivat sitoa opintomatkan joustavasti osaksi useita kandi- ja maisterivaiheen kursseja. Näin mahdollistamme opintomatkan soveltuvuuden eri opintosuunnista tuleville osallistujille. mm. Kestävyyskasvatus LUMA-aineissa (projektityön korvaus), Työelämäportfolion osasuoritus...
 
