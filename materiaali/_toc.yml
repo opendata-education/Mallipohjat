@@ -13,4 +13,5 @@ chapters:
   - file: harjoitukset/pylvasdiagrammi1
 - file: harjoitukset/hyytiala
   sections:
+  - file: harjoitukset/ohjelma
   - file: harjoitukset/Aerosolit
