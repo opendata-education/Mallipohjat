@@ -14,7 +14,9 @@ Klo 16 lähtö Kumpulasta
 8-9 Hyytiälän kiertokävely / Pauliina Schiestl-Aalto
 
 9-11 asiantuntijapuheenvuorot
+
 Pauliina Schiestl-Aalto: Hyytiälän tiedekasvatusmalli sekä metsien vaikutus ilmastoon ja ilmaston vaikutus metsiin.
+
 Tuomo Nieminen: Ilmakehän pienhiukkaset; mitä ne ovat, miten niitä päätyy ilmakehään ja millaisia vaikutuksia niillä on (ilmasto, ilmanlaatu, terveys) 
 
 11-12 lounas
