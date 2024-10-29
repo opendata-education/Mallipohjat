@@ -2,7 +2,7 @@
 
 Tiedekasvatus elää koulun ja tutkimusmaailman välissä. Tämän projektin ideana on saada opettajaopiskelijat tutustumaan SMEAR-asemien kaltaisten huipputason kokeiden tutkimiin aiheisiin sekä hyödyntämään niistä syntyvien mittaustulosten avointa saatavuutta omassa oppimisessaan ja opetuksessaan. Opintomatkalla perehdytään ajankohtaisten ja monitieteisten tutkimusteemojen maailman kärkitutkimukseen. Tarkasteltavia teemoja ovat muun muassa ilmasto- ja metsätutkimus. Ohjelmassa tulee olemaan asiantuntijapuheenvuoroja aseman tutkijoilta, avoimeen dataan liittyvä työkokonaisuus, SMEAR II  -tutkimusasemaan tutustuminen ja Hyytiälän tiedekasvatuspalveluihin perehtyminen.   
 
-![Hyytiälän metsäasema ja SMEAR-II]([https://www.atm.helsinki.fi/SMEAR/images/SMEAR_triangle.JPG](https://www.helsinki.fi/assets/drupal/s3fs-public/styles/16_10_xl/public/migrated-news/194883-hyytialarakennuspaikka_kuva_loponen_et_aalto_news.jpg.webp?itok=AOmx0WUM))
+![Hyytiälän metsäasema ja SMEAR-II](https://www.helsinki.fi/assets/drupal/s3fs-public/styles/16_10_xl/public/migrated-news/194883-hyytialarakennuspaikka_kuva_loponen_et_aalto_news.jpg.webp?itok=AOmx0WUM)
 Kuva: Loponen & Aalto 
 
 Kurssin muoto:
