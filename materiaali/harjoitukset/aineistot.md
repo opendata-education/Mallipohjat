@@ -2,6 +2,10 @@
 
 Mistäs niitä datoja sitten saa käsiinsä?
 
+Hyytiälän sivuilta:
+
+[https://www.helsinki.fi/fi/tutkimusasemat/hyytialan-metsaasema/tutkimus/avointa-dataa-hyytialasta](https://www.helsinki.fi/fi/tutkimusasemat/hyytialan-metsaasema/tutkimus/avointa-dataa-hyytialasta)
+
 SMEAR-asemien oma portaali:
 
 [https://smear.avaa.csc.fi/download](https://smear.avaa.csc.fi/download)
