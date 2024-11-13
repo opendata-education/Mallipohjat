@@ -25,3 +25,5 @@ Ilmatieteen laitoksen latauspalvelu:
 Hiilidioksidia ja metaania Hyytiälästä ja useilta muilta asemilta: [https://opendata-education.github.io/Tyopajat/harjoitukset/KestavyysHarjoitus.html](https://opendata-education.github.io/Tyopajat/harjoitukset/KestavyysHarjoitus.html)
 
 Pienhiukkasista, ilmanlaadusta ja muista näkökulmista: [https://opendata-education.github.io/Tyopajat/harjoitukset/datasettien_esittelyt.html](https://opendata-education.github.io/Tyopajat/harjoitukset/datasettien_esittelyt.html)
+
+Vuoden 2023 kokoluokitellut aerosolihavainnot Hyytiälän DMPS-laitteistosta: https://raw.githubusercontent.com/opendata-education/Mallipohjat/refs/heads/main/materiaali/data/HyyAero2023.csv
