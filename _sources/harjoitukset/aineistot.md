@@ -19,3 +19,9 @@ Kansainvälinen ICOS-portaali:
 Ilmatieteen laitoksen latauspalvelu:
 
 [https://www.ilmatieteenlaitos.fi/havaintojen-lataus](https://www.ilmatieteenlaitos.fi/havaintojen-lataus)
+
+## Valmiita datasettejä:
+
+Hiilidioksidia ja metaania Hyytiälästä ja useilta muilta asemilta: [https://opendata-education.github.io/Tyopajat/harjoitukset/KestavyysHarjoitus.html](https://opendata-education.github.io/Tyopajat/harjoitukset/KestavyysHarjoitus.html)
+
+Pienhiukkasista, ilmanlaadusta ja muista näkökulmista: [https://opendata-education.github.io/Tyopajat/harjoitukset/datasettien_esittelyt.html](https://opendata-education.github.io/Tyopajat/harjoitukset/datasettien_esittelyt.html)
