@@ -52,3 +52,10 @@ Omatoiminen iltapala
 
 Klo 14 lähtö  
 
+## Keskiviikko 27.11.
+
+14-16 lopputapaaminen Kumpulassa, palauttakaa väliversio kurssiesseestänne Moodleen. Huone selviää lähempänä.
+
+## Perjantai 20.12
+
+Lopullinen palautus Moodleen ja lomille.
