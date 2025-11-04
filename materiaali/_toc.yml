@@ -11,8 +11,9 @@ chapters:
   - file: harjoitukset/viivakuvaaja1
   - file: harjoitukset/viivakuvaaja2
   - file: harjoitukset/pylvasdiagrammi1
-- file: harjoitukset/hyytiala
+- file: harjoitukset/retki
   sections:
+  - file: harjoitukset/hyytiala
   - file: harjoitukset/ohjelma
   - file: harjoitukset/aineistot
   - file: harjoitukset/Aerosolit
