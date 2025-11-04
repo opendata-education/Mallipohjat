@@ -1,61 +1,70 @@
 # OHJELMA
 
-## Keskiviikko 13.11.
+## Aikataulu 
 
-Klo 16 lähtö Kumpulasta
+Ennakkotapaaminen ti 4.11. klo 14–15 Kumpulassa D106
 
-18-22 majoittuminen, sauna, iltapala kodalla ​
-
-
-## Torstai 14.11.
-
-7-8 aamupala
-
-8-9 Hyytiälän kiertokävely / Pauliina Schiestl-Aalto
-
-9-11 asiantuntijapuheenvuorot
-
-Pauliina Schiestl-Aalto: Hyytiälän tiedekasvatusmalli sekä metsien vaikutus ilmastoon ja ilmaston vaikutus metsiin.
-
-Tuomo Nieminen: Ilmakehän pienhiukkaset; mitä ne ovat, miten niitä päätyy ilmakehään ja millaisia vaikutuksia niillä on (ilmasto, ilmanlaatu, terveys) 
-
-11-12 lounas
-
-12-13.30 SMEAR II –kierros / Lauri Ahonen
-
-13.30-14 kahvi
-
-14-16.30 avoin data -tehtävä
-
-16.30-17.30 päivällinen
-
-17.30-18.00 avoin data –tehtävä  
-​
-Omatoiminen iltapala
+Koodauspaja ke 5.11. klo 14–16 D114
 
 
-## Perjantai 15.11.
+## Keskiviikko 12.11. 
 
-7-8 aamupala
+15.30 lähtö Kumpulasta  
 
-9.00 Huoneiden luovutus
+17 saapuminen
 
-9-10 Puuhankerakentaminen ja siihen liittyvä tutkimus Hyytiälässä / Pasi Puttonen
+17–18 päivällinen oppilasasuntolan takkahuoneella
 
-10-11 Yhteenveto, kysymykset
+18–19 Tvärminnen yleisesittely / Ilse Klockars
 
-11-12 lounas
+majoittuminen
 
-12-13.30 tiedepolku
+sauna (miehet 18:00 - 20:00, naiset 20:00 - 22:00)
 
-13.30 kahvi
+yhteistä oleskelua ja iltapala oppilasasuntolan takkahuone
 
-Klo 14 lähtö  
 
-## Keskiviikko 27.11.
+## Torstai 13.11. 
 
-14-16 lopputapaaminen Kumpulassa, palauttakaa väliversio kurssiesseestänne Moodleen. Huone selviää lähempänä.
+8–9 aamupala 
 
-## Perjantai 20.12
+9–10 Tvärminnen tutkimuksen yleisesittely / Laura Kauppi
 
-Lopullinen palautus Moodleen ja lomille.
+10–11 asiantuntijapuheenvuoro / Anna Villnäs: CoastClim
+
+11–12 lounas 
+
+12–13 Ilmakehän pienhiukkaset: mitä ne ovat, miten niitä päätyy ilmakehään ja millaisia vaikutuksia niillä on (ilmasto, ilmanlaatu, terveys) / Tuomo Nieminen
+
+13–14.30 Kierros asemalla + merentutkimusalus Augusta / Laura Kauppi
+
+14.30–15 kahvi 
+
+15–17 avoin data ja tehtävän esittely ja harjoittelu / Peitsa, Laura Kauppi, Tuomo
+
+17–18 päivällinen
+
+18 oman tehtävän pohdintaa 
+
+omatoiminen iltapala
+
+
+## Perjantai 14.11.   
+
+8–9 aamupala 
+
+Huoneiden luovutus
+
+9–11 Oman tehtävän tekemistä ja yhteenveto
+
+11–12 lounas 
+
+12–13.30 luontopolku, Itämeri quiz
+
+14.30 kahvi
+
+Klo 15 lähtö  
+
+## Myöhemmin
+
+lopputapaaminen Kumpulassa, palauttakaa väliversio kurssiesseestänne. Huone selviää lähempänä.
